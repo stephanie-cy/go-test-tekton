@@ -17,6 +17,5 @@ metadata:
   tags: ["go", "sscs", "sbom", "acs"] 
 spec:
   type: service
-  owner: user:guest 
   lifecycle: experimental
  
